@@ -1,2 +1,2 @@
 # ArunFrontEnd
-This is a repository for seeing my Front End Development Projects
+This is the public repository for creating my front end development projects in Udacity.
